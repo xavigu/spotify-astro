@@ -233,7 +233,7 @@ export const songs: Song[] = [
     "albumId": 4,
     "title": "Lunar",
     "image": "https://f4.bcbits.com/img/a1962013209_16.jpg",
-    "artists": ["Tenno"],
+    "artists": ["Peter"],
     "album": "Study Session",
     "duration": "3:40"
   },
@@ -242,7 +242,7 @@ export const songs: Song[] = [
     "albumId": 4,
     "title": "Go go go!",
     "image": "https://f4.bcbits.com/img/a1962013209_16.jpg",
-    "artists": ["Tenno"],
+    "artists": ["Peter"],
     "album": "Study Session",
     "duration": "3:20"
   },
@@ -251,7 +251,7 @@ export const songs: Song[] = [
     "albumId": 4,
     "title": "Keep focus!",
     "image": "https://f4.bcbits.com/img/a1962013209_16.jpg",
-    "artists": ["Tenno"],
+    "artists": ["Peter"],
     "album": "Study Session",
     "duration": "2:40"
   },
@@ -260,7 +260,7 @@ export const songs: Song[] = [
     "albumId": 4,
     "title": "JavaScript is the way",
     "image": "https://f4.bcbits.com/img/a1962013209_16.jpg",
-    "artists": ["Tenno"],
+    "artists": ["Peter"],
     "album": "Study Session",
     "duration": "3:10"
   },
@@ -269,7 +269,7 @@ export const songs: Song[] = [
     "albumId": 4,
     "title": "No more TypeScript for me",
     "image": "https://f4.bcbits.com/img/a1962013209_16.jpg",
-    "artists": ["Tenno"],
+    "artists": ["Peter"],
     "album": "Study Session",
     "duration": "2:10"
   },
