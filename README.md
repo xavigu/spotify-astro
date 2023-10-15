@@ -49,6 +49,7 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
+## 👀 Project Libraries
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Zustand. Library to have a global state in the app
+Slider Library. `npm install @radix-ui/react-slider clsx` ![page](https://ui.shadcn.com/docs/components)
