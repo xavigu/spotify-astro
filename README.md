@@ -53,3 +53,7 @@ All commands are run from the root of the project, from a terminal:
 
 Zustand. Library to have a global state in the app
 Slider Library. `npm install @radix-ui/react-slider clsx` ![page](https://ui.shadcn.com/docs/components)
+
+## Deploy in Netlify
+
+You need install an adapter with the command `npx astro add netlify` ![page](https://docs.astro.build/en/guides/deploy/netlify/)
